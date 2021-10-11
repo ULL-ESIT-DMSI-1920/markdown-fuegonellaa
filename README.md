@@ -54,12 +54,12 @@ Para tener un trabajo limpio también es util que formateemos los enlaces para q
 Existen dos tipos de enlaces, tenemos el enlace en línea que escribiríamos asi:
 
 ~~~
-[facebook] (www.facebook.com)
+[enlace](www.github.com)
 ~~~
 
 Estos nos muestra:
 
-[enlace] (www.github.com)
+[enlace](www.github.com)
 
 Después también tenemos los enlaces referenciales que se escriben de la siguiente manera:
 
