@@ -59,9 +59,7 @@ Existen dos tipos de enlaces, tenemos el enlace en línea que escribiríamos asi
 
 Estos nos muestra:
 
-[facebook] (www.facebook.com)
-
-facebook
+[enlace] (www.github.com)
 
 Después también tenemos los enlaces referenciales que se escriben de la siguiente manera:
 
@@ -89,7 +87,7 @@ Se transforma en:
 ![imagen1](https://www.dexerto.es/wp-content/uploads/sites/3/2021/04/23/guia-morgana-jungla-temporada-11-league-of-legends-portada.jpg)
 
 También podemos implementar imagenes con el mismo funcionamiento de los enlaces referenciales:
- ~~~
+~~~
 ![Imagen2][Enlace imagen2]
 [Enlace imagen2]: https://esports.as.com/2019/04/10/league-of-legends/reduccion-escalados-habilidad-afectaran-Morgana_1234986498_196345_1440x810.jpg
 ~~~
