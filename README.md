@@ -10,11 +10,31 @@
 
 Para lograr este efecto, lo que tenemos que hacer es poner:
 
-~~~~
+~~~
 
-** texto en negrita **
+**texto en negrita**
 
-~~~~
+~~~
+
+* Poner el _texto en cursiva_
+
+Muchas veces para dar enfasis, formatemos el texto a cursiva. Para ello tenemos que escribir:
+
+~~~
+
+_texto en cursiva_
+
+~~~
+
+y si además queremos juntar texto en negrita con el texto en cursiva lo que tenemos que hacer es:
+
+~~~
+
+**_ Texto en negrita y cursiva _**
+
+~~~
+
+
 
 
 ## Imágenes
