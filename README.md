@@ -58,7 +58,10 @@ Existen dos tipos de enlaces, tenemos el enlace en línea que escribiríamos asi
 ~~~
 
 Estos nos muestra:
+
 [facebook] (www.facebook.com)
+
+facebook
 
 Después también tenemos los enlaces referenciales que se escriben de la siguiente manera:
 
